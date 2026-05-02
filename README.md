@@ -175,5 +175,5 @@ This system enables organizations to:
 
 ## Author
 
-**Danish Ali**
+**Danish Zulfiqar**
 Machine Learning | AI Systems | Predictive Modeling | Applied Data Science
